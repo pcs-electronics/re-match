@@ -165,19 +165,19 @@ Plot saved to plot.png
 
 ###### SWR to 10
 
-![SWR to 10](images/example-swr10.png)
+<img src="images/example-swr10.png" alt="SWR to 10" width="700">
 
 ###### S11
 
-![S11](images/example-s11.png)
+<img src="images/example-s11.png" alt="S11" width="700">
 
 ###### RX to 1000
 
-![RX to 1000](images/example-rx1000.png)
+<img src="images/example-rx1000.png" alt="RX to 1000" width="700">
 
 ###### Smith Chart
 
-![Smith Chart](images/example-smith.png)
+<img src="images/example-smith.png" alt="Smith Chart" width="700">
 
 ##### Supported Formats
 
