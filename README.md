@@ -1,6 +1,8 @@
 # RigExpert Match CLI and TT-Plot, with AI Agent Integration
 
-Video: https://youtube.com/shorts/ghPHNbW07E8
+Video:
+
+[![RigExpert Match CLI demo](https://img.youtube.com/vi/ghPHNbW07E8/hqdefault.jpg)](https://youtube.com/shorts/ghPHNbW07E8)
 
 A set of Python scripts for controlling the RigExpert Match Antenna Analyzer and plotting Touchstone data, with AI agent integration in mind.
 
