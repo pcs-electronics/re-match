@@ -98,3 +98,10 @@ Thumbs.db
 *.s1p
 *.png
 .codex
+!images/
+!images/**/
+!images/**/*.png
+!images/**/*.jpg
+!images/**/*.jpeg
+!images/**/*.svg
+!images/**/*.pdf
