@@ -1,6 +1,6 @@
 # RigExpert Match CLI and TT-Plot, with AI Agent Integration
 
-Video:
+Video where RigExpert Match is controlled remotely via Telegram channel:
 
 [![RigExpert Match CLI demo](https://img.youtube.com/vi/ghPHNbW07E8/hqdefault.jpg)](https://youtube.com/shorts/ghPHNbW07E8)
 
